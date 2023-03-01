@@ -12,4 +12,4 @@ A Bank Extractor/Repacker for Pizza Tower
 ## Special Thanks
 [Deltom](https://deltomx3.carrd.co/) (Icon)
 
-Archi (Keeping me on track)
+[Archi](https://twitter.com/TheBuisnessPyro) (Keeping me on track)
